@@ -1,30 +1,32 @@
 
 local M = {}
 
-local function bind_autoclose(window)
+function M.bind_autoclose(master, slave1, slave2)
 	vim.api.nvim_create_autocmd("WinClosed", {
-		buffer = window.buf,
+		buffer = master.buf,
 		callback = function()
-      window.close()
+      master.close()
+      slave1.close()
+      slave2.close()
 		end,
 	})
 	vim.keymap.set(
 		{ "n", "i" },
 		"<C-c>",
-		window.close,
-		{ buffer = window.buf }
+		master.close,
+		{ buffer = master.buf }
 	)
 	vim.keymap.set(
 		{ "n", "i" },
 		"<Esc>",
-		window.close,
-		{ buffer = window.buf }
+		master.close,
+		{ buffer = master.buf }
 	)
 end
 
-function M.new_window(name, opts)
+function M.new_window(name, opts, enter)
 	local created_buffer = vim.api.nvim_create_buf(true, true)
-	local window = vim.api.nvim_open_win(created_buffer, true, opts)
+	local window = vim.api.nvim_open_win(created_buffer, enter or false, opts)
 	local data = {
 		buf = created_buffer,
 		opts = opts,
@@ -35,7 +37,6 @@ function M.new_window(name, opts)
 			end
 		end,
 	}
-  bind_autoclose(data)
 	return data
 end
 

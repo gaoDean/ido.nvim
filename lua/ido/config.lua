@@ -1,5 +1,12 @@
 local default_config = {
-  num_results = 5
+  num_results = 5,
+  prompt = "Find file: ",
+  ls_flags = "",
+  max_paths = 10,
+  highlights = {
+    prompt = "Bold",
+    matches = "IncSearch",
+  }
 }
 
 local M = vim.deepcopy(default_config)
