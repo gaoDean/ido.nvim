@@ -3,6 +3,7 @@ local default_config = {
   prompt = "Find file: ",
   ls_flags = "",
   max_paths = 10,
+  no_matches = "No Matches",
   highlights = {
     prompt = "Bold",
     matches = "IncSearch",

@@ -187,3 +187,7 @@ ap
 path~/ap
 ap
 path~/ap
+
+path~/
+app
+path~/app
