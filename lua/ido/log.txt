@@ -1,193 +1,1114 @@
-~/
-~/
-org
-org
-org
+cmdline: e
+cmdline: e 
+cmdline: e ~
+cmdline: e ~/
+last path: 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+display_path: [No Matches]EOF
+cmdline: e ~/[No Matches]
+last path: ~/ 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/ { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/ EOF
+cmdline: e 
+cmdline: e 
+cmdline: e ~
+cmdline: e ~/
+last path: 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/ap{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/app[Applications/]
+last path: ~/ap
+path: ~/appEOF
+display_path: [Applications/]EOF
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: w 
+cmdline: w 
+cmdline: w :
+cmdline: w 
+cmdline: e
+cmdline: e 
+cmdline: e ~
+cmdline: e ~/
+last path: 
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/a{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/app[Applications/]
+last path: ~/ap
+path: ~/appEOF
+display_path: [Applications/]EOF
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/ap[Applications/]
+last path: ~/app
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/a{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/app[Applications/]
+last path: ~/ap
+path: ~/appEOF
+display_path: [Applications/]EOF
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/ap[Applications/]
+last path: ~/app
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/a{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+last path: ~/
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/app[Applications/]
+last path: ~/ap
+path: ~/appEOF
+display_path: [Applications/]EOF
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/app[Applications/]
+cmdline: e ~/ap[Applications/]
+last path: ~/app
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e
+cmdline: e 
+cmdline: e ~
+cmdline: e ~/
+cmdline: e ~/a
+last path: ~/
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/a[Applications/]
+last path: ~/ap
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/EOF
+display_path: { Applications/ | Desktop/ | Documents/ | Downloads/ | ... }EOF
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: e ~/{ Applications/ | Desktop/ | Documents/ | Downloads/ | ... }
+cmdline: h
+cmdline: h 
+cmdline: h
+cmdline: 
+cmdline: e
+cmdline: e 
+cmdline: e ~
+cmdline: e ~/
+cmdline: e ~/a
+last path: ~/
+path: ~/aEOF
+display_path: { Applications/ | Downloads/ | Library/ }EOF
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/a{ Applications/ | Downloads/ | Library/ }
+cmdline: e ~/ap{ Applications/ | Downloads/ | Library/ }
+last path: ~/a
+path: ~/apEOF
+display_path: [Applications/]EOF
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+cmdline: e ~/ap[Applications/]
+Applications/
+cmdline: e ~/Applications/
+last path: ~/ap
+path: ~/Applications/EOF
+display_path: [zmk-ble.app/]EOF
+cmdline: e ~/Applications/[zmk-ble.app/]
+cmdline: e ~/Applications/[zmk-ble.app/]
+cmdline: e ~/Applications/[zmk-ble.app/]
+cmdline: e ~/Applications/[zmk-ble.app/]
+cmdline: e ~/Applications/[zmk-ble.app/]
+zmk-ble.app/
+cmdline: e ~/Applications/zmk-ble.app/
+last path: ~/Applications/
+path: ~/Applications/zmk-ble.app/EOF
+display_path: [Contents/]EOF
+cmdline: e ~/Applications/zmk-ble.app/[Contents/]
+cmdline: e ~/Applications/zmk-ble.app/[Contents/]
+cmdline: e ~/Applications/zmk-ble.app/[Contents/]
+cmdline: e ~/Applications/zmk-ble.app/[Contents/]
+cmdline: e ~/Applications/zmk-ble.app/[Contents/]
+Contents/
+cmdline: e ~/Applications/zmk-ble.app/Contents/
+last path: ~/Applications/zmk-ble.app/
+path: ~/Applications/zmk-ble.app/Contents/EOF
+display_path: { Info.plist | MacOS/ | PkgInfo | Resources/ }EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+cmdline: e ~/Applications/zmk-ble.app/Contents/{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+cmdline: e ~/Applications/zmk-ble.app/Contents/{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+cmdline: e ~/Applications/zmk-ble.app/Contents/{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+cmdline: e ~/Applications/zmk-ble.app/Contents/{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+cmdline: e ~/Applications/zmk-ble.app/Contents/i{ Info.plist | MacOS/ | PkgInfo | Resources/ }
+last path: ~/Applications/zmk-ble.app/Contents/
+path: ~/Applications/zmk-ble.app/Contents/iEOF
+display_path: { Info.plist | PkgInfo }EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+last path: ~/Applications/zmk-ble.app/Contents/i
+path: ~/Applications/zmk-ble.app/Contents/inEOF
+display_path: { Info.plist | PkgInfo }EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/in{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/inf{ Info.plist | PkgInfo }
+last path: ~/Applications/zmk-ble.app/Contents/in
+path: ~/Applications/zmk-ble.app/Contents/infEOF
+display_path: { Info.plist | PkgInfo }EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/inf{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/inf{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/inf{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/info{ Info.plist | PkgInfo }
+last path: ~/Applications/zmk-ble.app/Contents/inf
+path: ~/Applications/zmk-ble.app/Contents/infoEOF
+display_path: { Info.plist | PkgInfo }EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/info{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/info{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/info{ Info.plist | PkgInfo }
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.{ Info.plist | PkgInfo }
+last path: ~/Applications/zmk-ble.app/Contents/info
+path: ~/Applications/zmk-ble.app/Contents/info.EOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.p[Info.plist]
+last path: ~/Applications/zmk-ble.app/Contents/info.
+path: ~/Applications/zmk-ble.app/Contents/info.pEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.p[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.p[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/info.p[Info.plist]
+Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+last path: ~/Applications/zmk-ble.app/Contents/info.p
+path: ~/Applications/zmk-ble.app/Contents/Info.plistEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist 
+last path: ~/Applications/zmk-ble.app/Contents/Info.plist
+path: ~/Applications/zmk-ble.app/Contents/Info.plist EOF
+display_path: [No Matches]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist [No Matches]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist [No Matches]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist [No Matches]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[No Matches]
+last path: ~/Applications/zmk-ble.app/Contents/Info.plist 
+path: ~/Applications/zmk-ble.app/Contents/Info.plistEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis
+last path: ~/Applications/zmk-ble.app/Contents/Info.plist
+path: ~/Applications/zmk-ble.app/Contents/Info.plisEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+last path: ~/Applications/zmk-ble.app/Contents/Info.plis
+path: ~/Applications/zmk-ble.app/Contents/Info.plistEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis
+last path: ~/Applications/zmk-ble.app/Contents/Info.plist
+path: ~/Applications/zmk-ble.app/Contents/Info.plisEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plis[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+last path: ~/Applications/zmk-ble.app/Contents/Info.plis
+path: ~/Applications/zmk-ble.app/Contents/Info.plistEOF
+display_path: [Info.plist]EOF
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
+cmdline: e ~/Applications/zmk-ble.app/Contents/Info.plist[Info.plist]
 
-org
-org
-~/org
-org
-org
-org
-~/
-org
-org
-org
-org
-or[org]
-org
-~/org
-org[org]
-~/org[org]
-org
-~/org
-org[org]
-~/org[org]
-org
-~/org
-org[org]
-~/org[org]
-org
-~/org
-org[org]
-~/org[org]
-org
-path~/org
-org[org]
-path~/org[org]
-org
-path~/org
-org[org]
-path~/org[org]
-othpath ~/org
-org
-path~/org
-othpath ~/org[org]
-org[org]
-path~/org[org]
-othpath ~/org
-org
-path~/org
-othpath ~/org[org]
-org[org]
-path~/org[org]
-e ~/org
-othpath ~/org
-org
-path~/org
-e ~/orgorg]
-othpath ~/org[org]
-org[org]
-path~/org[org]
-e ~/org
-othpath ~/org
-org
-path~/org
-e ~/org
-othpath ~/org[org]
-org[org]
-path~/org[org]
-e ~/org
-othpath ~/org
-org
-path~/org
-e ~/org
-othpath ~/org[org]
-org[org]
-path~/org[org]
-org
-path~/org
-org
-path~/org
-org
-path~/org
-org
-path~/org
-org
-path~/org
-org
-path~/org
-org
-path~/org
-or
-path~/or
-or
-path~/or
-or
-path~/or
-an
-path~/an
-an
-path~/an
-an
-path~/an
-an
-path~/an
-an
-path~/an
-an
-path~/an
-an
-path~/an
-an
-org
-path~/org
-oraa
-path~/oraa
-oraa
-path~/oraa
-
-path~/org/
-ch
-path~/org/ch
-
-path~/org/ch/
-chi
-path~/org/chi
-chi
-path~/org/chi
-ch
-path~/org/ch
-
-path~/org/ch/
-
-path~/org/
-or
-path~/or
-or
-path~/or
-o
-path~/o
-
-path~/
-
-path~/
-
-path~/
-or
-path~/or
-
-path~/
-a
-path~/a
-o
-path~/o
-
-path~/
-
-path~/
-
-path~/
-
-path~/
-
-path~/
-
-path~/
-
-path~/
-
-path~/
-o
-path~/o
-
-path~/
-o
-path~/o
-
-path~/
-o
-path~/o
-
-path~/
-
-path~/
-ap
-path~/ap
-ap
-path~/ap
-
-path~/
-app
-path~/app
+Applications/
+zmk-ble.app/
+Contents/
+Applications/
+zmk-ble.app/
+Contents/
+Applications/
+zmk-ble.app/
+Contents/
+Info.plist

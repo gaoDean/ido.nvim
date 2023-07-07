@@ -12,7 +12,7 @@ M.setup = function(opts)
   for k, v in pairs(require("ido.ido")) do
     M[k] = v
     vim.cmd("command! "
-      .. "Taper"
+      .. "Ido"
       .. snake_to_pascal_case(k)
       .. " lua require('ido')."
       .. k
